@@ -2,3 +2,9 @@
 !.well-known/appspecific/com.tesla.3p.public-key.pem
 *-private-key*
 .env
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
